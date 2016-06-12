@@ -25,11 +25,11 @@ This is a repo for demonstraighting using Git for collaboration and learning how
 
 5. Group members, enter: ils
 
-6. Group member B, grab data from the Datastore
-   1. Group member B, enter: iget /iplant/home/shared/workshop_material/SoftwareCarpentry/data/gapminder-FiveYearData.csv
-   2. Group member B, make a directory for the data (mkdir)
-   3. Group member B, move (mv) gapminder data to data folder
-   4. Group member B, git add, commit, and push the gapminder data
+6. Group member with atmosphere access, grab data from the Datastore
+   1. Enter: iget /iplant/home/shared/workshop_material/SoftwareCarpentry/data/gapminder-FiveYearData.csv
+   2. Make a directory for the data (mkdir)
+   3. Move (mv) gapminder data to data folder
+   4. Do git add, commit, and push the gapminder data
 
 7. Explore the data!
 
