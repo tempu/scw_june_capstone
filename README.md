@@ -1,7 +1,7 @@
 This is a repo for demonstraighting using Git for collaboration and learning how to utilize techniques learned in the 2016 June Software/Data Carpentry Workshop
 
 ### Git Collaborating
-1. Groups member A, go to: https://github.com/tjstruck/SCW_June_Capstone/tree/master
+1. Groups member A, go to: https://github.com/tempu/scw_june_capstone.git
 2. Fork the repo
 3. Go to "Settings" -> "Collaborators" -> search for group member B's git username and click their name, then click "Add Collaborator"
 4. Group member B, accept the invite in the email that went to the email you signed up to Github with.
